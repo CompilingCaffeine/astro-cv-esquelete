@@ -1,5 +1,5 @@
 ---
-title: AWS Certified Solutions Architect - Associate (CLF-C02)
+title: AWS Certified Solutions Architect - Associate (SAA-CO3)
 org: Amazon
 tags: [Cloud Concepts, Security, Technology, Billing, Pricing]
 url: https://www.credly.com/badges/11c49357-bb6a-494e-b339-703403840a41/public_url
