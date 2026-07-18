@@ -1,5 +1,5 @@
 ---
-title: Technical Customer Support
+title: Academic Success Coordinator/MCAT Tutor/MCAT Coach
 date: 2022 - Present
 location: Remote
 org: Blueprint Test Preparation

@@ -1,7 +1,7 @@
 ---
 title: about
 name: "Lazare Herzi"
-designation: "Technical IT Support"
+designation: "Academic Success Coordinator"
 location: Daly City, CA 94015
 pronouns: "he/him"
 website: "https://www.linkedin.com/in/lazareherzi/"
