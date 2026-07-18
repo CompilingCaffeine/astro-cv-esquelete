@@ -1,5 +1,5 @@
 ---
-title: AWS Desktop-as-a-service
+title: Medical School Admissions Calculator
 url: https://wedgedawg.herzi.ai/
 tags: ["Codex", "Vercel", "Static Deployment"]
 date: 2026
